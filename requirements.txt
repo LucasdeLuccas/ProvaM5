@@ -1,0 +1,2 @@
+- Para instalar o Flask: pip install Flask
+- Para instalar o TinyDB: pip install tinydb
